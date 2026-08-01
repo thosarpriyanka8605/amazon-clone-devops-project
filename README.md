@@ -19,4 +19,10 @@ Step5 → Monitering via Prmotheus and grafana
 Step 6 → Terraform Destroy
 
 
+screenshot  
+AMAZON PAGE
+<img width="1365" height="683" alt="Screenshot 2026-08-01 144819" src="https://github.com/user-attachments/assets/a346b35c-d154-4e0b-9b05-df2c51efb86b" />
+ JENKIN
+ 
+
                 
